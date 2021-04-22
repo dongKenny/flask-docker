@@ -1,4 +1,5 @@
 ### Docker Assignment
+#### Kenney Dong
 
 This exercise will get you hands-on with Docker so that you can see what it takes to deploy a web application. On windows, you will run the commands in WSL.
 
